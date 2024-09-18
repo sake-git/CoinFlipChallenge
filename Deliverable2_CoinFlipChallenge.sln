@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deliverable2_CoinFlipChallenge", "Deliverable2_CoinFlipChallenge.csproj", "{F8337DE0-809F-4D96-B150-E817D7BC090F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8337DE0-809F-4D96-B150-E817D7BC090F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8337DE0-809F-4D96-B150-E817D7BC090F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8337DE0-809F-4D96-B150-E817D7BC090F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8337DE0-809F-4D96-B150-E817D7BC090F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F0C45E6-E2ED-4D51-86C3-44B915B08402}
+	EndGlobalSection
+EndGlobal

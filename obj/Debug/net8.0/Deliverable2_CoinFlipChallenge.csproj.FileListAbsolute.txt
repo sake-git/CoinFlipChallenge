@@ -1,0 +1,14 @@
+D:\C#\Deliverable2_CoinFlipChallenge\bin\Debug\net8.0\Deliverable2_CoinFlipChallenge.exe
+D:\C#\Deliverable2_CoinFlipChallenge\bin\Debug\net8.0\Deliverable2_CoinFlipChallenge.deps.json
+D:\C#\Deliverable2_CoinFlipChallenge\bin\Debug\net8.0\Deliverable2_CoinFlipChallenge.runtimeconfig.json
+D:\C#\Deliverable2_CoinFlipChallenge\bin\Debug\net8.0\Deliverable2_CoinFlipChallenge.dll
+D:\C#\Deliverable2_CoinFlipChallenge\bin\Debug\net8.0\Deliverable2_CoinFlipChallenge.pdb
+D:\C#\Deliverable2_CoinFlipChallenge\obj\Debug\net8.0\Deliverable2_CoinFlipChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Deliverable2_CoinFlipChallenge\obj\Debug\net8.0\Deliverable2_CoinFlipChallenge.AssemblyInfoInputs.cache
+D:\C#\Deliverable2_CoinFlipChallenge\obj\Debug\net8.0\Deliverable2_CoinFlipChallenge.AssemblyInfo.cs
+D:\C#\Deliverable2_CoinFlipChallenge\obj\Debug\net8.0\Deliverable2_CoinFlipChallenge.csproj.CoreCompileInputs.cache
+D:\C#\Deliverable2_CoinFlipChallenge\obj\Debug\net8.0\Deliverable2_CoinFlipChallenge.dll
+D:\C#\Deliverable2_CoinFlipChallenge\obj\Debug\net8.0\refint\Deliverable2_CoinFlipChallenge.dll
+D:\C#\Deliverable2_CoinFlipChallenge\obj\Debug\net8.0\Deliverable2_CoinFlipChallenge.pdb
+D:\C#\Deliverable2_CoinFlipChallenge\obj\Debug\net8.0\Deliverable2_CoinFlipChallenge.genruntimeconfig.cache
+D:\C#\Deliverable2_CoinFlipChallenge\obj\Debug\net8.0\ref\Deliverable2_CoinFlipChallenge.dll
